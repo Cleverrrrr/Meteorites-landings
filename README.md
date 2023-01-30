@@ -12,6 +12,7 @@ Le premier quartile de 6.550000e+00 kg indique que 25% des météorites ont une 
 
 ## Correlation
 ![image](https://user-images.githubusercontent.com/123311478/215516615-bd45de46-b582-4c13-a3bd-874c2acee2c0.png)
+
 La corrélation entre mass et year est de -0.124224, ce qui signifie qu'il existe une relation faiblement négative entre la masse des météorites et l'année de leur chute. Cela signifie que, dans l'ensemble, les météorites les plus lourdes sont tombées il y a plus longtemps.
 
 La corrélation entre mass et reclat est de 0.036313, ce qui signifie qu'il existe une relation faiblement positive entre la masse des météorites et leur latitude de chute. Cela signifie qu'il y a une légère tendance à ce que les météorites les plus lourdes tombent plus près des pôles.
