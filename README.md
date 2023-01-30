@@ -1,6 +1,10 @@
 # Meteorites-landings
 Ce Projet présente une analyse quantitative des chutes de météorites.
 
+## Données 
+Source : https://catalog.data.gov/dataset/meteorite-landings
+Cet ensemble de données complet de la Société Météoritique contient des informations sur tous les atterrissages de météorites connus. La table de fusion est collectée par Javier de la Torre et nous avons également fourni un fichier XLS qui comprend 34 513 météorites et comprend les champs suivants : lieu type_de_météorite masse_g tombé_trouvé année base de données coordonnée_1 coordonnées_2 cartodb_id créé_le mis_à_jour année_date longitude latitude geojson.
+
 ## Statistiques descriptives 
 ![image](https://user-images.githubusercontent.com/123311478/215516447-a81d96c9-7d47-4e41-9409-13b4592c33b9.png)
 La moyenne de 1.868596e+04 kg indique que la valeur centrale des masses des météorites dans la base de données est d'environ 18 685,96 kg. Cepandant, la moyenne est influencée par des valeurs extrêmement élevées (valeurs aberrantes) et elle ne refléte donc pas la réalité de la plupart des météorites dans la base de données. On conclut cela en regardant la masse maximum qui est de 60 000 000 kg, et en analysant l'écart type qui nous indique que les valeurs de masses des météorites varient avec un écart de 689 498,1 kg.
