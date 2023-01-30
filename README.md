@@ -32,6 +32,6 @@ La médiane est autour de 14 indique que la valeur centrale des masses des mét�
 
 En utilisant des techniques statistiques plus avancées, il serait possible de modéliser la distribution des masses des météorites et d'estimer les probabilités associées à chaque valeur de la masse des météorites. Cela pourrait permettre de comprendre mieux comment la masse des météorites est distribuée dans la population étudiée, ainsi que les facteurs qui influencent cette distribution.
 
-### Graphe 1
+### Graphe 3
 ![image](https://user-images.githubusercontent.com/123311478/215517280-7a44540f-2e5c-48cd-bf6f-11048b4c84fa.png)
 Le 3ème graphe permet de visualiser la répartition des météorites à travers le monde. Les résultats montrent une faible densité de météorites dans les régions polaires, ce qui est en accord avec les résultats précedemment trouvé en utilisant les correlations. Ces observations sont également en accord avec les tendances générales de la distribution des météorites sur la surface terrestre. Les résultats de cette analyse peuvent contribuer à une meilleure compréhension des processus géologiques et météorologiques impliqués dans la trajectoire et l'impact des météorites sur la terre.
